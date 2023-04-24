@@ -1,0 +1,41 @@
+body {
+  box-sizing: border-box;
+  margin:0;
+  font-family: 'Playfair Display', serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  background-color:linen ; color: black;
+  /* background-image: url(material/velas.jpg  ) ; */
+  font-size: 40px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px;
+  text-align: center;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding:20px ;
+}
+
+.contenedor {
+ width: 800px;
+ margin: 0 200px;
+}
+
+.info {
+  padding: 60px;
+  margin: solid black 0.3px ;
+  background-color: bisque;
+  text-align: center;
+}
+
+.info h {
+  font-family: 'Raleway', sans-serif;
+   font-weight: 600;
+}
