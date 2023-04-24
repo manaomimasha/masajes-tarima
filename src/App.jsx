@@ -18,8 +18,8 @@ function App() {
       <div className='contenedor info '>
         <h> Reserva hoy tu masaje:</h>
         <p>
-          <a href=" https://www.facebook.com/masajestarima/">Reservar mi turno por Faceebok citas</a>
-          <p> Escribir Whatsap a +54 1130912600
+          {/* <a href=" https://www.facebook.com/masajestarima/">Reservar mi turno por Faceebok citas</a> */}
+          <p>Para pedir turno contacteme por Whatsapp a +54 1130912600
 
 
           </p>
