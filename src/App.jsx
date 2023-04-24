@@ -25,8 +25,8 @@ function App() {
           </p>
 
           <p className='contenedor1'> Consultar disponibilidad de turnos:
-            Lunes a Sabados 10 a 16hs y 17.30 a 20hs.
-            Ubicacion: Av. San Martin 2465, Florida, Vicente Lopez.
+            Lunes a Viernes 10 a 16hs y 17.30 a 20hs. Sabados 10 a 20hs.
+            Ubicacion: Florida, Vicente Lopez, a unas cuadras de la estacion Florida Tren Mitre. 
           </p>
 
         </p>
