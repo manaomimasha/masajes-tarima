@@ -25,12 +25,12 @@ nav {
 
 .contenedor {
  width: 40%;
- margin: 50px 50px;
+ margin: 20px 20px;
 }
 
 .info {
   min-width: 100px;
-   padding: 60px;
+   padding: 30px;
   /* margin: solid black 0.3px ; */
   background-color: bisque;
   text-align: center;
