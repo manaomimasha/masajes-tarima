@@ -18,17 +18,18 @@ function App() {
       <div className='contenedor info '>
         <h> Reserva hoy tu masaje:</h>
         <p>
-          {/* <a href=" https://www.facebook.com/masajestarima/">Reservar mi turno por Faceebok citas</a> */}
-          <p>Para pedir turno contacteme por Whatsapp a +54 1130912600
+          <a href=" https://calendly.com/masajes-tarima">Reservar mi turno Online </a>
+          <p>Por cualquier consulta puede contactarme por Whatsapp a +54 1130912600
 
 
           </p>
 
-          <p className='contenedor1'> Consultar disponibilidad de turnos:
+          <p className='contenedor1'> Horarios de atención:
             Lunes a Viernes 10 a 16hs y 17.30 a 20hs. Sabados 10 a 20hs.
+
             Ubicacion: Florida, Vicente Lopez, a unas cuadras de la estacion Florida Tren Mitre. 
           </p>
-
+ <p> Te espero !!!</p>
         </p>
       </div>
 
