@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1 >Masajes Masha</h1>
+      <h1 >Masajes Tarima</h1>
       {/* <nav className='contenedor'>
   <a>Reservar</a>
   <a>Informacion y tipos de masajes</a>
