@@ -30,6 +30,8 @@ function App() {
             Ubicacion: Florida, Vicente Lopez, a unas cuadras de la estacion Florida Tren Mitre. 
           </p>
  <p> Te espero !!!</p>
+
+ 
         </p>
       </div>
 
