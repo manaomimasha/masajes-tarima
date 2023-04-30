@@ -19,6 +19,8 @@ function App() {
         <h> Reserva hoy tu masaje:</h>
         <p>
           
+          <a href=" https://calendly.com/masajes-tarima">Reservar mi turno Online </a>
+
           <p>Por cualquier consulta puede contactarme por Whatsapp a +54 1130912600
 
 
